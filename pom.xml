@@ -8,7 +8,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>microservicecloud-consumer-dept-80</artifactId>
-<!-- 这是一个注释555555555555555-->
+<!--6666666666666666666 这是一个注释555555555555555-->
 
 	<dependencies>
 		<dependency>
